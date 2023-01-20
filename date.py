@@ -28,5 +28,3 @@ def belahKetupatFor():
         else:
             counter -= 1
             continue
-
-belahKetupatFor()
